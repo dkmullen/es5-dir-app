@@ -1,0 +1,189 @@
+[
+  {
+    "firstName": "Joe",
+    "lastName": "Charboneau",
+    "dateOfBirth": "1987-08-16T04:00:00.000Z",
+    "email": "joe@joe.com",
+    "image": {
+      "thumb": "../images/thumb/joe.jpeg",
+      "full": "../images/full/joe.jpeg"
+    },
+    "address": {
+      "streetOne": "6 Rustic Drive",
+      "streetTwo": null,
+      "city": "Killbuck",
+      "state": "CO",
+      "zip": "88858"
+    },
+    "phone": {
+      "phoneNumber": "865-555-5555",
+      "textCapable": true
+    }
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Err",
+    "dateOfBirth": "1995-10-06T04:00:00.000Z",
+    "email": "jane@jane.com",
+    "image": {
+      "thumb": "../images/thumb/jane.jpeg",
+      "full": "../images/full/jane.jpeg"
+    },
+    "address": {
+      "streetOne": "3220 Co. Rd 75",
+      "streetTwo": null,
+      "city": "Mesa",
+      "state": "NY",
+      "zip": "88866"
+    },
+    "phone": {
+      "phoneNumber": "865-555-5566",
+      "textCapable": true
+    }
+  },
+  {
+    "firstName": "Robinson",
+    "lastName": "Carousel",
+    "dateOfBirth": "1963-6-16",
+    "email": "rc@harriman.com",
+    "image": {
+      "thumb": "images/thumb/harmon.jpeg",
+      "full": "images/full/harmon.jpeg"
+    },
+    "address": {
+      "streetOne": "10392 Miguel Island",
+      "streetTwo": null,
+      "city": "West Felipa",
+      "state": "MI",
+      "zip": "56542"
+    },
+    "phone": {
+      "phoneNumber": "423-555-1121",
+      "textCapable": true
+    }
+  },
+  {
+    "firstName": "Deanna",
+    "lastName": "Roberts",
+    "dateOfBirth": "2001-09-10T04:00:00.000Z",
+    "email": "queenie@oke.com",
+    "image": {
+      "thumb": "../images/thumb/deanna.jpeg",
+      "full": "../images/full/deanna.jpeg"
+    },
+    "address": {
+      "streetOne": "827 Tromp View",
+      "streetTwo": "Apt. 3C",
+      "city": "Beckerton",
+      "state": "NJ",
+      "zip": "60521"
+    },
+    "phone": {
+      "phoneNumber": "865-555-2124",
+      "textCapable": false
+    }
+  },
+  {
+    "firstName": "Makayla",
+    "lastName": "Williamson",
+    "dateOfBirth": "1982-03-30T05:00:00.000Z",
+    "email": "onmyway@oke.com",
+    "image": {
+      "thumb": "../images/thumb/makayla.jpeg",
+      "full": "../images/full/makayla.jpeg"
+    },
+    "address": {
+      "streetOne": "7266 Kihn Gateway",
+      "streetTwo": null,
+      "city": "Nikolaschester",
+      "state": "TN",
+      "zip": "18942"
+    },
+    "phone": {
+      "phoneNumber": "303-555-2124",
+      "textCapable": false
+    }
+  },
+  {
+    "firstName": "N. G.",
+    "lastName": "Controller",
+    "dateOfBirth": "1992-11-29T00:00:00.000Z",
+    "email": "rogetthat@yahoo.com",
+    "image": {
+      "thumb": "../images/thumb/kellen.jpeg",
+      "full": "../images/full/kellen.jpeg"
+    },
+    "address": {
+      "streetOne": "22 Scotty Highway",
+      "streetTwo": null,
+      "city": "Hannibal",
+      "state": "MO",
+      "zip": "33587"
+    },
+    "phone": {
+      "phoneNumber": "330-555-2223",
+      "textCapable": true
+    }
+  },
+  {
+    "firstName": "Jason",
+    "lastName": "Object",
+    "dateOfBirth": "1999-12-31T05:00:00.000Z",
+    "email": "jsonp@gmail.cc",
+    "image": {
+
+    },
+    "address": {
+      "streetOne": "123 Apache Plumb",
+      "city": "Englewood",
+      "state": "NC",
+      "zip": "44857"
+    },
+    "phone": {
+      "phoneNumber": "331-485-9986",
+      "textCapable": true
+    }
+  },
+  {
+    "firstName": "Jean Claude",
+    "lastName": "Pouros",
+    "dateOfBirth": "1988-1-14",
+    "email": "jcp@harriman.com",
+    "image": {
+      "thumb": "images/thumb/jeanclaude.jpeg",
+      "full": "images/full/jeanclaude.jpeg"
+    },
+    "address": {
+      "streetOne": "709 Marks Forge",
+      "streetTwo": null,
+      "city": "North Ansleyton",
+      "state": "IN",
+      "zip": "36542"
+    },
+    "phone": {
+      "phoneNumber": "423-555-4590",
+      "textCapable": false
+    }
+  },
+  {
+    "firstName": "Duncan",
+    "lastName": "Idaho",
+    "dateOfBirth": "1977-4-29",
+    "email": "duncan@dune.com",
+    "image": {
+      "thumb": "images/thumb/terrence.jpeg",
+      "full": "images/full/terrence.jpeg"
+    },
+    "address": {
+      "streetOne": "6 Leisure Ln",
+      "streetTwo": null,
+      "city": "Arrakis",
+      "state": "NV",
+      "zip": "88857"
+    },
+    "phone": {
+      "phoneNumber": "900-555-5555",
+      "textCapable": true
+    }
+  }
+]
